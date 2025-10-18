@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neha2003-git&show_icons=true&locale=en" alt="neha2003-git" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neha2003-git&" alt="neha2003-git" /></p>
+
+[![An image of @neha2003git's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neha2003git)](https://holopin.io/@neha2003git)
